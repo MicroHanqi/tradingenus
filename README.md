@@ -1,5 +1,6 @@
 # English version
 **[Chinese 中文版本]: https://github.com/MicroHanqi/tradingzhcn**
+
 Note that this article is machine translated and may be difficult to read.
 ------
 
